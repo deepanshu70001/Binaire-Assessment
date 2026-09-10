@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+pandas
+lxml
+python-dotenv
+huggingface_hub
+git+https://github.com/dansanderson/picotool.git
+pypng
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+fastapi
+uvicorn

@@ -1,0 +1,39 @@
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and local editor files
+*.log
+.vscode/
+.idea/
+
+# Downloaded / generated ML artifacts
+**/.cache/
+task 1/models/
+task 2/data/raw/
+task 3/faiss_store/
+task 3/__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
