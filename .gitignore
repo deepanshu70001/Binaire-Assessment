@@ -37,3 +37,6 @@ task 3/__pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Local backup of Task 3's former standalone Git metadata
+.task3-git-backup/
